@@ -1,0 +1,17 @@
+.Box1,
+.Box2 {
+  height: 256px;
+  width: 256px;
+}
+
+.Box1 {
+  background-color: #ff0000;
+}
+
+.Box2 {
+  background-color: #004eff;
+}
+
+.Container1 {
+  display: flex;
+}
