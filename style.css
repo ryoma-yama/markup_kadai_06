@@ -1,17 +1,13 @@
-.Box1,
-.Box2 {
+.box-container {
+  display: flex;
+}
+.box {
   height: 256px;
   width: 256px;
 }
-
-.Box1 {
+.red {
   background-color: #ff0000;
 }
-
-.Box2 {
+.blue {
   background-color: #004eff;
-}
-
-.Container1 {
-  display: flex;
 }
