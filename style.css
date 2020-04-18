@@ -1,0 +1,13 @@
+.box-container {
+  display: flex;
+}
+.box {
+  height: 256px;
+  width: 256px;
+}
+.red {
+  background-color: #ff0000;
+}
+.blue {
+  background-color: #004eff;
+}
